@@ -43,7 +43,6 @@ Projeto 3 - Deep Learning YOLO/
 ├── Projeto3_YOLO_Blister.ipynb          # Notebook principal
 ├── data_fixed.yaml                       # Configuração do dataset (gerado automaticamente)
 ├── yolov8n.pt                            # Pesos pré-treinados do YOLOv8n
-├── pharma pill blister inspection...zip  # Dataset compactado
 └── README.md                             # Este arquivo
 ```
 
