@@ -1,0 +1,8 @@
+names:
+- no_pill
+- pill
+nc: 2
+path: c:\Users\hecto\Downloads\Projeto 3 - Deep Learning YOLO\pharma pill blister
+  inspection.v2-pills_v2_ylv8.yolov8
+train: train/images
+val: valid/images
